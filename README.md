@@ -11,17 +11,22 @@ sent immediately to areas nearby as well as existing Blood Banks with a request 
 ## Prerequisites
 ○	Download Nodejs and install: https://nodejs.org/en/download/ <br />
 ○	We need to install expo cli with the help of the following command in the terminal. Environment setup link for your reference (https://reactnative.dev/docs/environment-setup) <br />
-■	npm install -g expo-cli <br />
+■	npm install -g expo-cli
+<br />
 ### ReactNative
-○	The following link could be helpful to get started with the ReactNative basics https://reactnative.dev/docs/getting-started
+○	The following link could be helpful to get started with the ReactNative basics https://reactnative.dev/docs/getting-started <br />
 
 # How To Run the Application: 
 ●	Android mobile: install the app “Expo Go” from the PlayStore.<br />
 ●	iPhone: install the app “Camera App” from the AppStore. <br />
 ●	Open the terminal in visual studio code and please type the following command, which will install all the dependencies needed for your project.<br />
-■ npm install
-●	Once the above command completes its execution, give the following command in the terminal which will execute your code.
-■ npm start
+
+■ npm install <br />
+
+●	Once the above command completes its execution, give the following command in the terminal which will execute your code. <br />
+
+■ npm start <br />
+
 ●	This command will show a QR code in the terminal, You can scan the QR code from the Expo App or Camera App.This will take you to the actual application you developed on your respective mobile device. <br />
 ![Screenshot](QRCode.png) <br />
 ●	You will also get “Metro Builder” opening in a new tab in the browser which would look like the below pic </br>
