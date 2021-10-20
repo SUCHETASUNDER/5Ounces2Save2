@@ -19,9 +19,9 @@ sent immediately to areas nearby as well as existing Blood Banks with a request 
 ●	Android mobile: install the app “Expo Go” from the PlayStore.<br />
 ●	iPhone: install the app “Camera App” from the AppStore. <br />
 ●	Open the terminal in visual studio code and please type the following command, which will install all the dependencies needed for your project.<br />
-### npm install
+■ npm install
 ●	Once the above command completes its execution, give the following command in the terminal which will execute your code.
-#### npm start
+■ npm start
 ●	This command will show a QR code in the terminal, You can scan the QR code from the Expo App or Camera App.This will take you to the actual application you developed on your respective mobile device. <br />
 ![Screenshot](QRCode.png) <br />
 ●	You will also get “Metro Builder” opening in a new tab in the browser which would look like the below pic </br>
