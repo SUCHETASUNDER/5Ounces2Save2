@@ -35,4 +35,4 @@ sent immediately to areas nearby as well as existing Blood Banks with a request 
 
 # What has been accomplished
 The front end design of the form to accept requests from the user has been successfully completed. <br/>
-![Screenshot](AppV1.0.png) </br>
+</br>
