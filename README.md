@@ -13,7 +13,7 @@ sent immediately to areas nearby as well as existing Blood Banks with a request 
 ○	We need to install expo cli with the help of the following command in the terminal. Environment setup link for your reference (https://reactnative.dev/docs/environment-setup) <br />
 ■	npm install -g expo-cli
 <br />
-### ReactNative
+#### Getting started with ReactNative 
 ○	The following link could be helpful to get started with the ReactNative basics https://reactnative.dev/docs/getting-started <br />
 
 # How To Run the Application: 
