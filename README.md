@@ -23,8 +23,8 @@ sent immediately to areas nearby as well as existing Blood Banks with a request 
 ●	Once the above command completes its execution, give the following command in the terminal which will execute your code.
 #### npm start
 ○	This command will show a QR code in the terminal, You can scan the QR code from the Expo App or Camera App.This will take you to the actual application you developed on your respective mobile device. <br />
-![Screenshot](QRCode.png)
+![Screenshot](QRCode.png) <br />
 ○	You will also get “Metro Builder” opening in a new tab in the browser which would look like the below pic </br>
 ![Screenshot](MetroBuilder.png) </br>
-○	You can click “Run in web browser” to test your application in the web browser as well.
+○	You can click “Run in web browser” to test your application in the web browser as well. <br />
 
