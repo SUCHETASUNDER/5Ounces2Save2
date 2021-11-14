@@ -1,8 +1,7 @@
 # 5Ounces2Save2
 5 Ounces of Blood to Save 2 Lives
 # Author: Sucheta L Sunder
-This app is designed for mothers undergoing labor, who do not have the access to blood. With the control of a doctor or someone who has the app downloaded, a message will be 
-sent immediately to areas nearby as well as existing Blood Banks with a request for blood supply.
+This app is designed to help mothers who lose blood during childbirth. The authorized personnel at the health care facility can use this app to contact blood donors and blood banks by sending an alert message indicating the type of blood required and the facility's contact information. The app was inspired primarily in an effort to reduce the maternal mortality rates. 
 
 # Environment Setup
 ## Editor
